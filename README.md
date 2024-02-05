@@ -29,14 +29,14 @@ Este proyecto te permite experimentar y disfrutar de un juego simple y entreteni
 
 - **`index.html`:** Archivo principal que contiene la interfaz del juego.
 - **`style.css`:** Archivo CSS para estilos y diseño.
-- **`script.js`:** Archivo JavaScript que maneja la lógica del juego.
+- **`app.js`:** Archivo JavaScript que maneja la lógica del juego.
 
 ## Personalización
 
-Siéntete libre de personalizar el juego ajustando los parámetros, como el rango de números o la cantidad máxima de intentos, directamente en el archivo `script.js`.
+Siéntete libre de personalizar el juego ajustando los parámetros, como el rango de números o la cantidad máxima de intentos, directamente en el archivo `app.js`.
 
 ```javascript
-// Personaliza la configuración del juego en script.js
+// Personaliza la configuración del juego en app.js
 let numeroMaximoRandom = 10;
 let numeroMinimoRandom = 1;
 ```

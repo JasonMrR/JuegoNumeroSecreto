@@ -16,7 +16,7 @@ Este proyecto te permite experimentar y disfrutar de un juego simple y entreteni
 
 1. **Clonar el Repositorio:**
    ```
-   git clone https://github.com/tuusuario/juego-adivinanza-numeros.git
+   git clone https://github.com/JasonMrR/JuegoNumeroSecreto.git
    ```
 
 2. **Abrir el Juego:**
